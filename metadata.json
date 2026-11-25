@@ -1,0 +1,6 @@
+{
+  "name": "HomeVault",
+  "description": "HomeVault helps Indian households organise their products, purchase invoices, warranties, repairs and maintenance records in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
